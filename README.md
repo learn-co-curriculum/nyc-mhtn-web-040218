@@ -8,4 +8,5 @@
 3. Object-Oriented Programming | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/03-object-oriented-programming)
 4. [Inheritance Review](https://youtu.be/y4OLQAGQYQ4) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/blob/master/04-oo-inheritance/animal.rb)
 5. [Object-Oriented Relationships: One to Many](https://www.youtube.com/watch?v=nBWpJLMTzME&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/05-one-to-many)
-6. [Object-Oriented Relationsihps: Many to Many](https://youtu.be/frW4qRR7Nfw) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/06-many-to-many)
+6. [Object-Oriented Relationships: Many to Many](https://youtu.be/frW4qRR7Nfw) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/06-many-to-many)
+7. Object-Oriented Relatioships Review | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/07-relationships-review)
