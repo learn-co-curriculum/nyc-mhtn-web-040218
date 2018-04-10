@@ -10,3 +10,4 @@
 5. [Object-Oriented Relationships: One to Many](https://www.youtube.com/watch?v=nBWpJLMTzME&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/05-one-to-many)
 6. [Object-Oriented Relationships: Many to Many](https://youtu.be/frW4qRR7Nfw) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/06-many-to-many)
 7. Object-Oriented Relatioships Review | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/07-relationships-review)
+8. SQL Review + Object Relationships | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/08-intro-sql)
