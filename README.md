@@ -12,4 +12,4 @@
 7. Object-Oriented Relatioships Review | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/07-relationships-review)
 8. [SQL Review + Object Relationships](https://www.youtube.com/watch?v=XLN8TxhD6DM) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/08-intro-sql)
 9. [Bridging SQL & Ruby](https://www.youtube.com/watch?v=UoN2ZSKYwtQ) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/09-bridging-ruby-and-sql)
-10. [Dynamic/Abstract ORMs]() | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/10-abstract-orm)
+10. [Dynamic/Abstract ORMs](https://www.youtube.com/watch?v=-o-swcrgAYY&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/10-abstract-orm)
