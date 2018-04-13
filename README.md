@@ -14,3 +14,4 @@
 9. [Bridging SQL & Ruby](https://www.youtube.com/watch?v=UoN2ZSKYwtQ) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/09-bridging-ruby-and-sql)
 10. [Dynamic/Abstract ORMs](https://www.youtube.com/watch?v=-o-swcrgAYY&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/10-abstract-orm)
 11. [ActiveRecord Intro](https://www.youtube.com/watch?v=Tem3fz7Q1bM) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/11-active-record-into)
+12. [ActiveRecord Associations](https://www.youtube.com/watch?v=dZdYX5fyAyw) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/66cc10beeee45dbe722b78855d73ca26a558cee8/12-active-record-associations)
