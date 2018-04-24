@@ -21,3 +21,4 @@
 1. [The Internet & Rack](https://www.youtube.com/watch?v=k00cveRhhOw) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/13-internet-intro)
 2. [Sinatra MVC](https://www.youtube.com/watch?v=QQmDU2MI1Nw) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/14-sinatra-mvc/fishmarket)
 3. [Sinatra Forms](https://youtu.be/ky691SgngxE)
+4. [RESTful Routing Review] (https://youtu.be/JqZyr8_rcNM) | [Slides](https://docs.google.com/presentation/d/19tTdHyq76gWgk1V2sQHpSGSHx8wqmUHEwJ0K2Y88F0c/edit#slide=id.g2e08670ba2_0_296)
