@@ -24,3 +24,4 @@
 4. [RESTful Routing Review](https://youtu.be/JqZyr8_rcNM) | [Slides](https://docs.google.com/presentation/d/19tTdHyq76gWgk1V2sQHpSGSHx8wqmUHEwJ0K2Y88F0c/edit#slide=id.g2e08670ba2_0_296)
 5. [Sinatra CRUD & Associations](https://www.youtube.com/watch?v=07Ky5ToHo9E) | [Part 2](https://www.youtube.com/watch?v=Hf4ugYLAZh4) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/15-sinatra-relationships/parkinglot)
 6. [Rails Intro](https://www.youtube.com/watch?v=zFnxGpNOSJg) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/16-intro-rails/donut-store)
+7. [Rails Forms and Validations](https://youtu.be/UpNVfLGV-04) | [Part 2](https://youtu.be/ZVvRO2hgQpA) |  [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/17-rails-forms-validations)
