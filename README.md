@@ -25,3 +25,4 @@
 5. [Sinatra CRUD & Associations](https://www.youtube.com/watch?v=07Ky5ToHo9E) | [Part 2](https://www.youtube.com/watch?v=Hf4ugYLAZh4) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/15-sinatra-relationships/parkinglot)
 6. [Rails Intro](https://www.youtube.com/watch?v=zFnxGpNOSJg) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/16-intro-rails/donut-store)
 7. [Rails Forms and Validations](https://youtu.be/UpNVfLGV-04) | [Part 2](https://youtu.be/ZVvRO2hgQpA) |  [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/17-rails-forms-validations)
+8. [Rails CRUD with Assocations](https://www.youtube.com/watch?v=5hIbxylYik8) | [Part 2](https://www.youtube.com/watch?v=rjfc1kmCOHc) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/18-rails-associations/pizzastore)
