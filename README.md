@@ -27,3 +27,4 @@
 7. [Rails Forms and Validations](https://youtu.be/UpNVfLGV-04) | [Part 2](https://youtu.be/ZVvRO2hgQpA) |  [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/17-rails-forms-validations)
 8. [Rails CRUD with Assocations](https://www.youtube.com/watch?v=5hIbxylYik8) | [Part 2](https://www.youtube.com/watch?v=rjfc1kmCOHc) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/18-rails-associations/pizzastore)
 9. [Auth in Rails](https://youtu.be/bJYtJ6tJi78) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/19-rails-auth/authapp)
+10. [CSS](https://youtu.be/R6lpeUftPS8) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/21-css)
