@@ -28,3 +28,6 @@
 8. [Rails CRUD with Assocations](https://www.youtube.com/watch?v=5hIbxylYik8) | [Part 2](https://www.youtube.com/watch?v=rjfc1kmCOHc) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/18-rails-associations/pizzastore)
 9. [Auth in Rails](https://youtu.be/bJYtJ6tJi78) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/19-rails-auth/authapp)
 10. [CSS](https://youtu.be/R6lpeUftPS8) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/21-css)
+
+## Module 3
+1. [Introduction to JS](https://www.youtube.com/watch?v=An2Iv-Q-Czk) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/22-introduction-to-js)
