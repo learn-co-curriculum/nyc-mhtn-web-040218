@@ -36,3 +36,4 @@
 3.  [Functional Programming](https://youtu.be/WLUz5MCCZIw) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/24-functional-programming)
 4.  [`this` JS keyword](https://www.dropbox.com/s/zu9l0nkoxz1cqf9/closures%20and%20scope.mp4?dl=0) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/25-this-keyword)
 5.  [Prototype chain and O.O. JS](https://www.youtube.com/watch?v=IlkMbclaF1o&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/26-prototype-chain-and-oo-js)
+6.  [The DOM](https://www.youtube.com/watch?v=rTdWS5hLAbQ&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/27-the-dom)
