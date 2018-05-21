@@ -37,3 +37,5 @@
 4.  [`this` JS keyword](https://www.youtube.com/watch?v=cA0nnkjtDVI&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/25-this-keyword)
 5.  [Prototype chain and O.O. JS](https://www.youtube.com/watch?v=IlkMbclaF1o&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/26-prototype-chain-and-oo-js)
 6.  [The DOM](https://www.youtube.com/watch?v=rTdWS5hLAbQ&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/27-the-dom)
+7.  [Events](https://www.youtube.com/watch?v=1-ewnBJogQI&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/28-js-events) + [Code for event delegation ](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/29-event-delegation-preview)
+8.  [AJAX]() | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/30-ajax)
