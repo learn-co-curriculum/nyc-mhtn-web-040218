@@ -41,3 +41,4 @@
 8.  [AJAX]() | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/30-ajax)
 9. [JS Code Organization](http://youtu.be/BZ7Vma-gKhs) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/31-code-organization)
 10. [Rails API](https://youtu.be/JeKu6tqj0iU) | [Front-End Code](https://github.com/laurkim/pizzaPals) | [Back-End Code](https://github.com/laurkim/pizza-pals-kitchen)
+11. [JS DOM/Fetch project review](https://www.youtube.com/watch?v=AXis0Lc3Y7Q&feature=youtu.be) | [Code](https://github.com/curiositypaths/octothorpeGifs)
