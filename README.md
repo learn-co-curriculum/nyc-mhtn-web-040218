@@ -48,3 +48,4 @@
 
 1. [Intro to React](https://youtu.be/vF9Txe5GYYk) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/36-intro-to-react)
 2. [Props and State](https://youtu.be/U8sDlErdQ8U) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/37-props-and-state)
+3. [State and Events](https://youtu.be/1a-VhOjfzOg) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/38-react-state-and-events)
