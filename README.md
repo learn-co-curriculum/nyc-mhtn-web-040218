@@ -43,3 +43,8 @@
 10. [Rails API](https://youtu.be/JeKu6tqj0iU) | [Front-End Code](https://github.com/laurkim/pizzaPals) | [Back-End Code](https://github.com/laurkim/pizza-pals-kitchen)
 11. [JS DOM/Fetch project review](https://www.youtube.com/watch?v=AXis0Lc3Y7Q&feature=youtu.be) | [Code](https://github.com/curiositypaths/octothorpeGifs)
 12. [How to: Use Sockets as a Client](https://www.youtube.com/watch?v=EkFbhgGvMUw) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/35-sockets-as-client)
+
+## Module 4
+
+1. [Intro to React](https://youtu.be/vF9Txe5GYYk) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/36-intro-to-react)
+2. Props and State _coming soon_ | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/37-props-and-state)
