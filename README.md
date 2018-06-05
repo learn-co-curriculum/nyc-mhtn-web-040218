@@ -47,4 +47,4 @@
 ## Module 4
 
 1. [Intro to React](https://youtu.be/vF9Txe5GYYk) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/36-intro-to-react)
-2. Props and State _coming soon_ | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/37-props-and-state)
+2. [Props and State](https://youtu.be/U8sDlErdQ8U) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/37-props-and-state)
