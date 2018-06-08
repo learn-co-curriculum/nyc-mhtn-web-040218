@@ -51,3 +51,4 @@
 3. [State and Events](https://youtu.be/1a-VhOjfzOg) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/38-react-state-and-events)
 4. [Forms](https://youtu.be/Iy3-5V2s1Vc) | [Part 2](https://youtu.be/Jv9HdUn8Ako) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/39-forms)
 5. [Thinking In React](https://youtu.be/UGpy2SJuuSE) | [Code](https://github.com/laurkim/iceIceBaby)
+6. Hogwarts Review | [Code](https://github.com/learn-co-students/hogwarts-web-112017)
