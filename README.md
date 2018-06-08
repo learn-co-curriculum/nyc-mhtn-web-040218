@@ -52,3 +52,4 @@
 4. [Forms](https://youtu.be/Iy3-5V2s1Vc) | [Part 2](https://youtu.be/Jv9HdUn8Ako) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/39-forms)
 5. [Thinking In React](https://youtu.be/UGpy2SJuuSE) | [Code](https://github.com/laurkim/iceIceBaby)
 6. Hogwarts Review | [Code](https://github.com/learn-co-students/hogwarts-web-112017)
+7. [Component Lifecycle Methods](https://youtu.be/X51g3bvoOpg) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/40-component-lifecycle-methods)
