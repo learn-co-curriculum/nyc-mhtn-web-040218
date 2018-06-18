@@ -56,3 +56,4 @@
 8. [Webpack and Babel](https://youtu.be/TSMOfzUH6ik) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/41-webpack-babel)
 9. [React Router](https://youtu.be/sm4bInEGA2M) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/42-react-router)
 10. [Auth (backend)](https://youtu.be/RenCvNVdU4s) | [Auth (frontend)](https://youtu.be/hH_Tsj39HqU) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/43-react-jwt-auth)
+11. [HOC](https://youtu.be/6r0QoPWZFPM) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/44-hoc)
