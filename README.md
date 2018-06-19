@@ -57,3 +57,4 @@
 9. [React Router](https://youtu.be/sm4bInEGA2M) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/42-react-router)
 10. [Auth (backend)](https://youtu.be/RenCvNVdU4s) | [Auth (frontend)](https://youtu.be/hH_Tsj39HqU) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/43-react-jwt-auth)
 11. [HOC](https://youtu.be/6r0QoPWZFPM) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/44-hoc)
+12. [Redux I](https://youtu.be/tlRHIPjfMJk) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/45-intro-to-redux)
