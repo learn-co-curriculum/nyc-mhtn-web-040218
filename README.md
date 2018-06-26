@@ -60,4 +60,4 @@
 12. [Redux I](https://youtu.be/tlRHIPjfMJk) | [Part II](https://youtu.be/dcIk88clLb0) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/45-intro-to-redux)
 13. [DIY Redux I](https://youtu.be/DCuJWr53AQM) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/46-diy-redux)
 14. [DIY Redux II & combineReducers](https://youtu.be/dUpCNoo20x0) | _Code is same as above_
-15. Redux Thunk (coming soon) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/47-redux-thunk)
+15. [Redux Thunk](https://youtu.be/BS0jYEyPPfs) | [Code](https://github.com/learn-co-students/nyc-mhtn-040218/tree/master/47-redux-thunk)
